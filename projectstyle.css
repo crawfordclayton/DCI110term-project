@@ -1,0 +1,80 @@
+
+body { 
+    background-color: white;
+    font-family: 'Kaisei Tokumin', serif;
+} 
+
+h1 { 
+    margin-top: 10rem;
+    font-family: 'Judson', serif; 
+    color: #414417; 
+}
+
+h2 { 
+    color: #506748; 
+    font-family: 'Abhaya Libre', serif;
+}
+
+h4 { 
+    font-family: 'Judson', serif; 
+    color:#414417;
+}
+
+h5 { 
+    font-family: 'Judson', serif; 
+    color:#414417;
+}
+
+p { 
+    color: #506748; 
+    font-family: 'Abhaya Libre', serif;
+}
+
+.navbar { 
+    background-color: #C7BEB4;
+    color: white; 
+    font-size: larger;
+    font-family: 'Kaisei Tokumin', serif;
+}
+
+#AboutMe{ 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: white; 
+    background-color: #506748;
+}
+
+#Education { 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: white; 
+    background-color: #506748;
+}
+
+#Jobs {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: white; 
+    background-color: #506748;
+} 
+
+#Projects { 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: white; 
+    background-color: #506748;
+}
+
+footer { 
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color: #C7BEB4;
+}
